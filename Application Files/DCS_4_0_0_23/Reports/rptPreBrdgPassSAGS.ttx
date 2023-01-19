@@ -1,0 +1,14 @@
+CarrierName	String	30	ROYAL KHMER AIRLINES
+PaxName	String	30	TRAN LIEM DANH
+Gender	String	3	A
+BoardingNo	number	123
+FlightNo	String	6	RK329
+FlightDate	Date	27-JUL-2005
+Gate	Number	6
+BDT	String	4	1320
+DepCityName	String	20	HO CHI MINH CITY
+ArrCityName	String	20	SIEM RIEP
+SeatNo		String 	20	1A
+TKNE	String	30	TKNE/1234567890123C1
+SpclInfo	String	100	,BLML
+FQTV	String	30	VN88888888888888

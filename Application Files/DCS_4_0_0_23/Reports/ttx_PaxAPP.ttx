@@ -1,0 +1,14 @@
+			
+DocumentType	String	1
+Nationality	String	3
+DocumentNumber	String	8
+DocumentExpiryDate	String	10
+IssuingState	String	3
+FamilyName	String	25
+GivenNames	String	25
+DateOfBirth	String	10
+Sex	String	1	
+CountryOfBirth	String	3
+TravelType	String	1
+Override	String	5
+Response	String	5	

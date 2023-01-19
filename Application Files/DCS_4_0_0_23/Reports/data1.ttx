@@ -1,0 +1,11 @@
+No	Number		
+PaxName	String	30	
+Cls	String	1	
+BN	Number		
+SN	String	5	
+Gender	String	1	
+Pcs	String	4	
+Wgt	Number		
+Tags	String	8	
+Fqtv	String	20
+SSR	String	100

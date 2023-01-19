@@ -1,0 +1,7 @@
+			
+PaxName	String	50	
+BkClass	String	1
+BkClass2	String	1	
+BoardingNo	Number		
+SeatNo	String	3	
+TicketNo	String	20

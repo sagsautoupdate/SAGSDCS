@@ -1,0 +1,6 @@
+No	Number		
+PaxName	String	50	
+BoardingNo	Number		
+SeatNo	String	3	
+SSR	String	50	
+Passport	String	100	

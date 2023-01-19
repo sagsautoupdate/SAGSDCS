@@ -1,0 +1,14 @@
+			
+PassengerType	String	2	
+Firstname	String	25
+MiddleName	String	25	
+LastName	String	25		
+Gender	String	1	
+DateOfBirth	String	10
+Nationality	String	3
+PortOfEmbarkation	String	3
+PortOfDebarkation	String	3
+DocumentType	String	1
+DocNumber	String	8
+ExpiryDate	String	10
+IssueCountry	String	3

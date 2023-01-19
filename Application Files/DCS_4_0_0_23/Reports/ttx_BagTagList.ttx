@@ -1,0 +1,5 @@
+BagTagNo	String	20	
+PaxName	String	50	
+BagDest	String	3	
+BoardingNo	Number		
+SeatNo	String	3	

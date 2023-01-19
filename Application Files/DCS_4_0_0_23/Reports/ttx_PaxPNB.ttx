@@ -1,0 +1,10 @@
+No	String	3	
+PaxName	String	50	
+BoardingNo	String	3	
+SeatNo	String	3	
+Bags	Number		
+Weight	Number		
+TagsNo	String	254	
+PaxType	String	1	
+BkClass	String	1	
+PnrNo	String	10	

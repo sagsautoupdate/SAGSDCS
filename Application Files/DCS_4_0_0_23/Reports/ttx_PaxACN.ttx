@@ -1,0 +1,13 @@
+
+SurName	String	20
+GiveName	String	20	
+Nationality	String	3	
+Gender	String	1	
+Birthday	String	10	
+DocType	String	1	
+DocNumber	String	10	
+ExpiryDate	String	10	
+IssuingCountry	String	3	
+PartyIdentifier	String	5	
+PortOfEmbarkation	String	3	
+PortOfDebarkation	String	3	

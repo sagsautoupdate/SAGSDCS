@@ -1,0 +1,12 @@
+			
+SeatNo	String	3
+FamilyName	String	35
+MiddleName	String	35
+GivenName	String	35
+Gender	String	1
+Nationality	String	3
+DateOfBirth	String	8
+DocType	String	2
+DocNumber	String	10
+IssuingCountry	String	3
+ExpiryDate	String	8

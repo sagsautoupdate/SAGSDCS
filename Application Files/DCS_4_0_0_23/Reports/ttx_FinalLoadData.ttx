@@ -1,0 +1,16 @@
+			
+Zone	String	2	
+Paxs	Number
+ADL	Number		
+CHD	Number		
+INF	Number
+Total	Number		
+Bags	Number		
+Weight	Number		
+Male	Number		
+Female	Number
+Economy	Number
+Business	Number
+PaxWeight	Number
+
+

@@ -1,0 +1,19 @@
+			
+DocumentType	String	1
+PassportNo	String	8
+IssuedPlace	String	3
+ExpirationDate	String	10
+FirstName	String	25
+MiddleName	String	25
+LastName	String	25
+Gender	String	1
+Birthday	String	10
+PassengerType	String	3
+Departure	String	3
+LastArrival	String	3
+Nationality	String	3
+StateCode	String	3
+CityName	String	50
+DetailedAddress	String	50
+ZipCode	String	10
+BookingNumber	String	10

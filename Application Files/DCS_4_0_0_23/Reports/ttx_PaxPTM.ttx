@@ -1,0 +1,16 @@
+PaxName	String	50	
+PnrNo	String	6	
+PassportNo	String	20
+Nationality	String	3
+DOB	DateTime		
+ExpiryDate	DateTime		
+FlightNo	String	6	
+FlightDate	DateTime		
+FlightTime	String	5
+Destination	String	3	
+BoardingNo	Number		
+Class	String	1
+SeatNo	String	3
+Bags	Number		
+Weight	Number		
+TagsNo	String	30	

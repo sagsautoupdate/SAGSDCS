@@ -1,0 +1,11 @@
+			
+PassengerName	String	75
+PassengerTypeCode	String	1
+PassportNo	String	10
+MemberNo	String	3
+MemberGrade	String	3
+Birthday	String	6
+GenderCode	String	1
+Nationality	String	3
+PaymentCode	String	3
+ReservationCode	String	3

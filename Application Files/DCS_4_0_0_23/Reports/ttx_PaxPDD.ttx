@@ -1,0 +1,18 @@
+			
+FlightNo	String	10
+FlightDate	String	10
+BookingNo	String	10
+PassengerName	String	50
+PNRNo	String	10
+SeatNo	String	3
+ClassCode	String	3
+PassengerType	String	5
+Remark	String	50
+Gender	String	5
+DOB	String	10
+PassportNo	String	10
+ExpiryDate	String	10
+Nationality	String	3
+Bags	String	3
+Weight	String	3
+Tags	String	50

@@ -1,0 +1,16 @@
+FlightNo	String	8
+FlightDate	String	12
+PassengerType	String	3
+FirstName	String	35
+MiddleName	String	35
+LastName	String	35
+Gender	String	1
+DateOfBirth	String	8
+Nationality	String	3
+PortOfEmbarkation	String	3
+PortOfDebarkation	String	3
+DocType	String	2
+DocNumber	String	10
+ExpiryDate	String	8
+IssuingCountry	String	3
+PNRecord	String	10

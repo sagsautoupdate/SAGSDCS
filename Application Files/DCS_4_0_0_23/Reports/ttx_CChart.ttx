@@ -1,0 +1,7 @@
+Odr	String	3	
+SeatNo1	String	3	
+PassengerName1	String	50	
+Dest1	String	3	
+SeatNo2	String	3	
+PassengerName2	String	50	
+Dest2	String	3	
